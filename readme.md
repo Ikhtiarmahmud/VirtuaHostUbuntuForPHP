@@ -82,7 +82,7 @@ sudo ln -s /etc/nginx/sites-available/your_file_name.conf /etc/nginx/sites-enabl
 ## Step 8
 Now, Go to host file.
 ```
-cd /etc/hosts
+sudo nano /etc/hosts
 ```
 ## Step 9
 paste this code top of this line `The following lines are desirable for IPv6 capable hosts`
